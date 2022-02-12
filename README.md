@@ -1,5 +1,5 @@
 <h1 align="center">¿Quién soy?</h1>
-<p align="center">Hola, soy ADylan Un de miles de Programadores con 5 años de Expeciencia en Programacion</p>
+<p align="center">Hola, soy ADylan Uno de los miles de Programadores con 5 años de Expeciencia en Programacion</p>
 
 ## Hola, soy ADylan
 
