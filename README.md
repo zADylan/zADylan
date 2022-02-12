@@ -5,7 +5,7 @@
 
 
 <a href="https://discord.com/users/939467880897081354">
-<img align="centre" src="https://discord.c99.nl/widget/theme-5/939467880897081354.png" alt="Principal Account Discord"/>
+<img align="centre" src="https://discord.c99.nl/widget/theme-1/939467880897081354.png" alt="Principal Account Discord"/>
 </a>
 
 # Sobre mi?
