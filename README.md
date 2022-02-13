@@ -46,7 +46,7 @@ New repositories
 <!--END_SECTION:waka-->
 
 <details>
-    <summary><b>Actividad</b>De GitHub</summary>
+    <summary><b>Actividad</b> De GitHub</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=zADylan&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zADylan&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zADylan&theme=tokyonight">
 </details>
