@@ -1,5 +1,5 @@
 <h1 align="center">¿Quién soy?</h1>
-<p align="center">Hola a Todos 👋, me llamo Dylan aunque soy más conocido como ADylan/p>
+<p align="center">Hola a Todos 👋, me llamo Dylan aunque soy más conocido como ADylan</p>
 
 ## Mi Discord
 
