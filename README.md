@@ -50,4 +50,4 @@ New repositories
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=zADylan&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zADylan&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zADylan&theme=tokyonight">
 </details>
-<i>Última actualización el 13 de Febrero de 2022</i> 😎
+<i>Última actualización 1 de junio de 2022</i> 😎
