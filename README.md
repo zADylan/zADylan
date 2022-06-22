@@ -23,7 +23,7 @@ const ADylan = {
     },
     CreatedAt: "March 29 2004",
     Stars: 25,
-    FavouriteThings: ["VS Code" "WebStrom"]
+    FavouriteThings: ["VS Code", "WebStrom"]
 };
 ```
 <hr>
